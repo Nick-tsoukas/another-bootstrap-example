@@ -1,0 +1,21 @@
+nav {
+  margin-bottom: 2em;
+}
+
+#navbarNav {
+  justify-content: flex-end;
+}
+
+.border-bottom {
+  border-bottom: 1px solid gray;
+  background: #80808047;
+}
+
+.position-bottom {
+  position: absolute;
+  bottom: 0;
+}
+
+.my-image {
+  height: 180px;
+}
